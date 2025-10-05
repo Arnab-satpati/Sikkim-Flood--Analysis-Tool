@@ -20,5 +20,5 @@ This part of the project is a Python-based Flask API that serves data and handle
 Ensure you are in the directory where you want the project to live.
 
 ```bash
-git clone [YOUR_GITHUB_REPO_URL]
-cd [YOUR_FLASK_APP_FOLDER]
+git clone https://github.com/Arnab-satpati/Sikkim-Flood--Analysis-Tool.git
+cd Sikkim-Flood--Analysis-Tool/
