@@ -5,3 +5,20 @@
 ![Alt text](assets/img1.png)
 
 ![Alt text](assets/img2.png)
+
+## ⚙️ API Backend Setup (Flask)
+
+This part of the project is a Python-based Flask API that serves data and handles business logic.
+
+### Prerequisites
+
+* **Python 3.8+**
+* **Git**
+
+### 1. Clone & Navigate
+
+Ensure you are in the directory where you want the project to live.
+
+```bash
+git clone [YOUR_GITHUB_REPO_URL]
+cd [YOUR_FLASK_APP_FOLDER]
